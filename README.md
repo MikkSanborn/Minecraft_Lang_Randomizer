@@ -11,5 +11,8 @@ If you want to use another language, you can! Take the other lang (JSON) file an
 ## Contributing
 Feel free to copy this code and modify it in any way of your choosing. Should you choose to resubmit this code or any portions thereof, please be sure to include the LICENSE.
 
+## DISCLAIMER
+The file "en_us.json" is property of Mojang™. I take no credit for creating this file, and only use it in the program to output a file in a similar fashion to that of the original Minecraft language file.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
